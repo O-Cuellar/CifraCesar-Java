@@ -74,6 +74,7 @@ public class Mecanismo {
     public void executarDecripto() {
 
         Scanner scanner = new Scanner(System.in);
+        secundaryBuffer = new ArrayList<>();
 
         System.out.println("Digite a chave de desciptografia");
         int chave = scanner.nextInt();
