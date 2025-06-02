@@ -21,17 +21,15 @@ Por exemplo, se a palavra de entrada for peixe e a chave for 3, o programa deslo
 
 # Como executar localmente
 
-    Clone o repositório:
+    Clone o repositório
 
 Compile o código com:
 
-javac NomeDoArquivo.java
+    javac NomeDoArquivo.java
 
 Execute o programa:
 
     java NomeDaClassePrincipal
-
-    Siga as instruções para inserir o texto e a chave de encriptação.
 
 # Tecnologias usadas
 
