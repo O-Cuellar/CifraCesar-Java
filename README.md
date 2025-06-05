@@ -25,11 +25,11 @@ Por exemplo, se a palavra de entrada for peixe e a chave for 3, o programa deslo
 
 Compile o código com:
 
-    javac NomeDoArquivo.java
+    javac CifradeCesar.java
 
 Execute o programa:
 
-    java NomeDaClassePrincipal
+    java main
 
 # Tecnologias usadas
 
